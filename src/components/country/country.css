@@ -1,0 +1,15 @@
+.country-card {
+    display: inline-block;
+    width: 30%;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid orange;
+}
+.country-name {
+    color: aqua;
+}
+.flag img {
+    display: block;
+    width: 100%;
+    height: 200px;
+}
